@@ -1,2 +1,3 @@
-# my-portfolio
-This is my professional portfolio
+# Atish Shinde's portfolioi
+
+This is my professional portfolio. Its uses AWS and ReactJS.
