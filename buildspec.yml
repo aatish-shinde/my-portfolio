@@ -5,9 +5,8 @@ phases:
     commands:
       - echo Nothing to do yet
 artificats:
-  files
+  files:
     - index.html
     - favicon.ico
     - styles/main.css
-    - images/*
-		
+    - images/*	
